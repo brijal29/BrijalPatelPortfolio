@@ -1,4 +1,4 @@
-To run this example, simply do:
+To run this portfolio, simply do:
 
 ```sh
 npm install
